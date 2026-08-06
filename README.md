@@ -15,4 +15,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0178-rank-scores/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
