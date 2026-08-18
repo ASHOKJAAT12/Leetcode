@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
