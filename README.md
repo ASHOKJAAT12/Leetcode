@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1927-sum-game](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0605-can-place-flowers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
