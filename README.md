@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
@@ -119,5 +122,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
