@@ -151,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
