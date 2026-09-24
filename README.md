@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1927-sum-game](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
