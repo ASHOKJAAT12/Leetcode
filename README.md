@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
