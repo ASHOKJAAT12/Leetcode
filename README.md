@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0735-asteroid-collision](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -188,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
