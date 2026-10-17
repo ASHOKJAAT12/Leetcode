@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -207,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
