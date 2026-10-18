@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
