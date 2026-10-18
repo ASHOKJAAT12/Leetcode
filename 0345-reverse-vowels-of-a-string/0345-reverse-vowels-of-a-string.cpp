@@ -16,7 +16,9 @@ public:
                 right--;
             } else {
                 if ( le != true ) {
-                    if ( s[left] == 'a' || s[left] == 'e'|| s[left] == 'i' || s[left] == 'o' || s[left] == 'u' || s[left] == 'A' || s[left] == 'E'|| s[left] == 'I' || s[left] == 'O' || s[left] == 'U'){
+                    if ( tolower(s[left]) == 'a' || tolower(s[left]) == 'e' ||
+    tolower(s[left]) == 'i' || tolower(s[left]) == 'o' ||
+    tolower(s[left]) == 'u' ){
                         le = true;
                     }else {
                         left++;
@@ -24,7 +26,9 @@ public:
                 }
                 if ( re != true ) {
                     
-                    if ( s[right] == 'a' || s[right] == 'e'|| s[right] == 'i' || s[right] == 'o' || s[right] == 'u' || s[right] == 'A' || s[right] == 'E'|| s[right] == 'I' || s[right] == 'O' || s[right] == 'U'){
+                    if ( tolower(s[right]) == 'a' || tolower(s[right]) == 'e' ||
+    tolower(s[right]) == 'i' || tolower(s[right]) == 'o' ||
+    tolower(s[right]) == 'u'){
                         re = true;
                     }else{
                         right--;
