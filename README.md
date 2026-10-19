@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1927-sum-game](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -226,4 +228,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
