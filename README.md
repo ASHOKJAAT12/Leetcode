@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
