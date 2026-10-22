@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0041-first-missing-positive](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
