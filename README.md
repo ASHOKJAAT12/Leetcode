@@ -271,4 +271,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
