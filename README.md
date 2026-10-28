@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0058-length-of-last-word](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Game Theory
@@ -284,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
