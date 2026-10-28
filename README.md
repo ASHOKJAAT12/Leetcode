@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
