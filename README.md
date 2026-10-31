@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -304,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
