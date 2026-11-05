@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
+
+        int count = 0;
+
+        for (int i : arr1) {
+
+            bool valid = true;
+
+            for (int x : arr2) {
+
+                if (abs(i - x) <= d) {
+                    valid = false;
+                    break;
+                }
+            }
+
+            if (valid) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+};
