@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
