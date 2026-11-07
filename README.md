@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [1089-duplicate-zeros](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1089-duplicate-zeros](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
