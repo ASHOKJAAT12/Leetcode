@@ -2,16 +2,17 @@ class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        // Initialize an n x n matrix filled with 0s
-        vector<vector<int>> res(n, vector<int>(n, 0)); 
         
+        // Step 1: Transpose the matrix
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                res[i][j] = matrix[n - j - 1][i];
+            for (int j = i + 1; j < n; j++) {
+                swap(matrix[i][j], matrix[j][i]);
             }
         }
         
-        // You can directly assign res back to matrix instead of looping again
-        matrix = res; 
+        // Step 2: Reverse each row
+        for (int i = 0; i < n; i++) {
+            reverse(matrix[i].begin(), matrix[i].end());
+        }
     }
 };
