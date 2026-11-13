@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -366,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/ASHOKJAAT12/Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
