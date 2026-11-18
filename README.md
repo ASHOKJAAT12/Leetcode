@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/ASHOKJAAT12/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ASHOKJAAT12/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ASHOKJAAT12/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
